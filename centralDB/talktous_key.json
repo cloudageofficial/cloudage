@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cloudage-mockpanel",
+  "private_key_id": "7b708a94e6d28a21f4f7c7e2336b2ffb9681b307",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDCIUoIKhY3Ss/z\nsqD5nBb9esXKwARBYNIqIWp4WNu2kbYsJJXdW1B9uUMzzw7kPNpvG+hrRbyxSiSz\nLsbKSDDyZWX6E2SK49PFyTCbEcFRj2Mi80toa7a3eQlrYFyZESW3UowWflqLlQiq\n/f7Dz0ZOAGNu2jg0UU89mxxzmeLKMEyaACzt9MwNzrm55CN8un07iciYiTEkci6o\nFLsvdq2rj8LfLJxvMNu2ymWXyVLpoHPktpHfeAe5IDDGoq4LVfmIZDnzqFzHK9iZ\niYOjnfXNJebWpR9km0YsnJl1IQZjdg4p2MM9R8NZOUrLK1mFcMd9+OwF3GuvMUzz\nDHGeHMwfAgMBAAECggEACayjBdkjFkpSJrDmOMpAkw1FQh9jluZ+Ur8rkSfMe0Kz\ns2t3VHqyfjF3WeOduF4X/KWFZaMqDiPFxHA2U+pZFhtbg6Tnw8wqx5aJJ5Ew8yGU\nLS+2uFN13ZrYj1NUCgTCvmoMtSpC1OXucqcJxTRVKpn2WpXhayoKKuXJ+zDWDoFX\nVH+xE/rWGb3SNaeDwm+5D/UQ9E8sUSNr9uf9NPi9UESfPu4T7NCSvGKr3Kawjb8j\nanvElIRxIeFkYnPnm9mBHiOju10dH8M1XCepupukqeUNdIbXm72eQLEkYGSUqvJv\nui7Y95YmPQnc6ZsKL1PU26EgH2bBKnqtSzJ57M5U8QKBgQD5K65J7OlSaxGh0mA2\nSW5LWzXjiOfFiiwGY+bDjGGGT1y56JLURlmK4r5yg0sHSeM4JiSLrIwWHAJOCe9q\n+mIJS818kcoD2WjURkfzyLrxxL0VzToeUf+hDXSy9J4Vu6UMyG4RFmIfv70PJUe/\npasZI2SxQp7vtonSsdVaG1IV7QKBgQDHc2m/mb4GrjBSGxz6DyAGojzvdORPhFji\nAldYSWqRuctLJ2h9d/gdfY7UkEu42y2LQTiVdhgt8ZKn9jYAJWbt6cG0NhB5d7C+\ndQma9tcomIARqFspAKP0Q7rdIef4sAnb3V/J8krsj0mZ6Axgd/3J/K1U5sHoW232\nRF5aMWjouwKBgEDV0eMgh1HP1GW0FR7rGoz3Ld2H+S8Ylf4PrrNBavsE2Y7yaopb\nx97wwzeO3E4INtycaDQD8Our3BmsUiUXA72BgPWiBdvcjX92zjAsEiDo3X63ySCs\nm4SvuKb8Kcpj6j2aRbGijmPOg4ZWYAYJOK0w3XmWaT7c054EcgyhQUm9AoGALlyz\nnigctezTqqJG0BGn/iLES10+nQVEq/SjXRBjx1AK44NblJ7IfAJtqxeHoobARXh5\nsLRs1nErCAQBdXM8Q91se3l9xt59pSgLfYwXY4ZfbrtVxWgytFryGukAxRwWjpcc\n5xJ9PBPqpe38wofh5IvptqyVMm/eVbp6vDh0DHUCgYAuOas3YebUYHsrxLxiGIvD\nncMpfdXabOTpny4yJnnVJ9tX0im9xVmXIKPkZJXddb34ueIJw03z1xNd96MVFakI\n2vKbTUiLcQwWMMIxSPRO/O1aSGLqlytZF280ShQ5uxzeejagHsDMXm8Zl4sLcvxZ\nNXYg1uENNjO8Nc0FLemL1A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "talk-to-us-firestore@cloudage-mockpanel.iam.gserviceaccount.com",
+  "client_id": "108599326499463894484",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/talk-to-us-firestore%40cloudage-mockpanel.iam.gserviceaccount.com"
+}
